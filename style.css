@@ -1,0 +1,115 @@
+body{
+    
+}
+
+.photo{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    }
+
+.signin{
+    
+    display:flex;
+    justify-content:space-between;
+    flex-direction: column;
+    width:400px;
+    height:450px;
+    /* padding:10px 30px; */
+    border:1px solid gainsboro;
+    margin:auto;
+    align-items: flex-start;
+    
+    
+    }
+
+.signin h1{
+    font-size: 30px;
+    margin-left: 10px;
+    padding:
+    
+}
+
+
+
+.box{
+    
+    
+    margin-left:auto;
+    width:500px;
+    margin-right:auto;
+    width:500px;
+    
+}
+
+.footer{
+    margin-left:auto;
+    width:500px;
+    margin-right:auto;
+    width:500px;
+    justify-content: space-between;
+    display: flex;
+    width:400px
+    text-decoration:none;
+
+
+    
+    
+}
+
+#email{
+    height:30px;
+    width:350px;
+    margin-left:20px ;
+}
+#password{
+    height:30px;
+    width:350px;
+    margin-left: 20px;
+    
+}
+#continue{
+    background-color: rgb(241, 192, 101);
+    height:40px;
+    width:350px;
+    margin-left:20px ;
+}
+
+.signin p{
+    color:gray;
+}
+
+.bottom{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+#button{
+    width:400px;
+    height:30px;
+    margin-left: 50px ;
+}
+.bottom p{
+    margin-left:60px ;
+    color: gray;
+}
+
+#forgot{
+    margin-left:200px ;
+}
+
+#label{
+    margin-left:20px;
+}
+
+#againforgot{
+    margin-left: 20px;
+}
+#end{
+    margin-left:auto;
+    width:500px;
+    margin-right:auto;
+    width:500px;
+    
+}
